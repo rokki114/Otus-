@@ -1,3 +1,0 @@
-D:/програмирование/OTUS -/Lecture_2/code/homework/build/CMakeFiles/hello_world.dir
-D:/програмирование/OTUS -/Lecture_2/code/homework/build/CMakeFiles/ALL_BUILD.dir
-D:/програмирование/OTUS -/Lecture_2/code/homework/build/CMakeFiles/ZERO_CHECK.dir
