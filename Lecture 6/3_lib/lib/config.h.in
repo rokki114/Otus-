@@ -1,3 +1,0 @@
-#pragma once
-
-inline int getProjectVersionPatch() { return @PROJECT_VERSION_PATCH@; }
